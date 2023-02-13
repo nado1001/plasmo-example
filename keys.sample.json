@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/plasmo-corp/bpp/v2/keys.schema.json",
+  "chrome": {
+    "clientId": "xxxxxxx.apps.googleusercontent.com",
+    "refreshToken": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "extId": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+    "clientSecret": "xxxxx-xxxxxxx-xxxxxxxxxxx"
+  }
+}

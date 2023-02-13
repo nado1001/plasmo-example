@@ -1,0 +1,7 @@
+{
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+  "editor.formatOnSave": true,
+  "eslint.validate": ["javascript"],
+  "editor.quickSuggestions": { "strings": true },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
